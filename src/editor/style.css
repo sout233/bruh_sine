@@ -1,0 +1,30 @@
+.knobs {
+    col-between: 80px;
+    left: -50px;
+    top: 10px;
+}
+
+knob .track {
+    background-color: #002016;
+    color: #54deb2;
+}
+
+.param-label {
+    color: #ceebe3;
+}
+
+.tick {
+    background-color: #54deb2;
+}
+
+.root {
+    background-color: #002016;
+}
+
+.label {
+    color: #ceebe3;
+}
+
+.title {
+    color: #ceebe3;
+}
